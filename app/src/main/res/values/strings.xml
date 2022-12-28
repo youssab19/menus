@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">menu</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="grid">grid</string>
+    <string name="settings">settings</string>
+    <string name="list">list</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="string_email">string/email</string>
+    <string name="signup">signup</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="your_email">your_email</string>
+    <string name="password">password</string>
+    <string name="next" />
+    <string name="textview">yous</string>
+    <string name="textview1" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="yourphone">your phone</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="done">done</string>
+</resources>

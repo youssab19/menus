@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All in fragments.app.main" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="fragments.app.main" />
+    <option name="PACKAGE_NAME" value="" />
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="package" />
+    <patterns>
+      <pattern testClass="drawable-v24.*" />
+      <pattern testClass="drawable.*" />
+    </patterns>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
